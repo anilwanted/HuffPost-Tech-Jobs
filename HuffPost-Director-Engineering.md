@@ -21,24 +21,20 @@ Responsibilities
 
 Specific Requirements
 ---------------------
-* Expertise and experience with with any of these languages: Ruby, Scala, Java, Erlang.
-* Expertise and experience with any of these frameworks: Play2, Scalatra, Rails, Hibernate, Spring.
-* Expertise and experience with SQL and NOSql data stores, building REST APIs, and caching technologies (Memcached, Redis)
-* Expertise and experience with HTML, CSS, Javascript, and jQuery.
-* Expertise and experience with MVC frameworks like Backbone, KnockoutJS, and JavascriptMVC
+* Expertise and experience with with any of these languages: Ruby, Scala, Java, Erlang, Javascript.
+* Building software using MVC style frameworks (Play2, Rails, Backbone, Angular, etc) 
+* Deep experience in Unix/Linux 
 * Expertise and experience with web standards, CSS-based design, and cross-browser compatibility
-
-
 
 
 General Requirements
 --------------------
-* Several years of experience leading small teams
-* Mastery of ticketing systems like JIRA
-* Mastery of Test Driven Development and Continuous Integration
-* Mastery of Agile Development
-* Mastery of MySQL, Unix, NoSQL databases and Open Source Software
-* Mastery of Design Patterns, Object Oriented Programming, and Functional Programming
+* Several years of experience leading small to medium sized teams
+* Mastery of Agile ticketing systems like JIRA, Pivotal, Rally, etc
+* Experience using Test Driven Development and Continuous Integration
+* Experience practicing Agile Development in a rapid development environment 
+* Exposure to MySQL, Unix, NoSQL databases and Open Source Software
+* Mastery of Design Patterns, Object Oriented Programming, or Functional Programming
 * Sense of humor
 * Strong interest in journalism, media, or any of the liberal arts
 
