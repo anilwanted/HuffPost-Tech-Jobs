@@ -33,7 +33,7 @@ Responsibilities
 * Work with Developers and Product Managers to understand the system and design a strategy to test it
 * Build automated test suites to excercise our applications
 * Identify performance bottlenecks
-* Participate in grooming meetings to provide feedback; ask questions to make sure all use cases are addresse
+* Participate in grooming meetings to provide feedback; ask questions to make sure all use cases are addressed
 * Stay up-to-date on the innovations in web software and mobile automation technologies
 
 General Requirements
