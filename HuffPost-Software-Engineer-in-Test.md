@@ -27,3 +27,38 @@ HuffPost Tech Team members are hardcore software development and design professi
 design and coding seriously but have a great time while doing so. We don't know the difference between work and play. 
 Not only do we have healthy snacks, nap rooms, and a ping pong table but a Minecraft server as well. The HuffPost 
 Tech Team is small enough that you get know know everyone but large enough that you'll find a great work-life balance.
+
+Responsibilities
+----------------
+* Work with Developers and Product Managers to understand and design a strategy to test the system
+* Build automated test suites to excercise our applications
+* Identify performance bottlenecks via load/performance testing
+* Participate in grooming meetings to provide feedback; ask questions to make sure all cases are covered
+* Stay up-to-date on the innovations in web software and mobile automation technologies
+
+General Requirements
+--------------------
+* Experience with ticketing systems like JIRA
+* Experience with Test Driven Development and Continuous Integration
+* Experience with Agile Development
+* Experience with MySQL, Unix, and Open Source Software
+* Experience with Design Patterns, Object Oriented Programming, and Functional Programming
+* Experience with Git or other SCM utilities 
+* Sense of humor
+* Strong interest in journalism, media, or any of the liberal arts
+
+Specific Requirements
+---------------------
+* Expertise and experience with HTML, CSS, Javascript, and jQuery.
+* Expertise and experience with JavaScript MVC frameworks like Backbone or Angular
+* Expertise and experience with Front end frameworks, Bootstrap and Foundation
+* Expertise and experience with CSS and Javascript Compilers, Coffeescript and Sass
+* Expertise and experience with front end performance profiling and optimization
+* Expertise and experience with responsive design principals, cross-browser compatibility, and progressive enhancement philosophies  
+* Experience or desire to learn server side scripting languages like PHP or Ruby. 
+
+Location
+--------
+The HuffPost NYC office is located at the corner of Broadway and East 9th Street. We're next door to the East Village and best ramen noodles in Manhattan (this fact alone is crucial). Under our building you'll find the N and R subway trains and we're just a short walk away from Union Square (A, C, E, 4, 5, 6, and L Trains). On your way to and from the office you'll run into the famous Strand Bookstore, Forbidden Planet Comic Book Shop, New York University, and Cooper Union.
+
+Apply to Developer@HuffingtonPost.com with your Github URL and resume.
