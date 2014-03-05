@@ -30,7 +30,7 @@ Tech Team is small enough that you get know know everyone but large enough that 
 
 Responsibilities
 ----------------
-* Work with Developers and Product Managers to understand and design a strategy to test the system
+* Work with Developers and Product Managers to understand the system and design a strategy to test it
 * Build automated test suites to excercise our applications
 * Identify performance bottlenecks
 * Participate in grooming meetings to provide feedback; ask questions to make sure all use cases are addresse
