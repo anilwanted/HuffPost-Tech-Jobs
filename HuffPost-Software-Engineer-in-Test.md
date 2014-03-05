@@ -32,8 +32,8 @@ Responsibilities
 ----------------
 * Work with Developers and Product Managers to understand and design a strategy to test the system
 * Build automated test suites to excercise our applications
-* Identify performance bottlenecks via load/performance testing
-* Participate in grooming meetings to provide feedback; ask questions to make sure all cases are covered
+* Identify performance bottlenecks
+* Participate in grooming meetings to provide feedback; ask questions to make sure all use cases are addresse
 * Stay up-to-date on the innovations in web software and mobile automation technologies
 
 General Requirements
@@ -41,21 +41,23 @@ General Requirements
 * Experience with ticketing systems like JIRA
 * Experience with Test Driven Development and Continuous Integration
 * Experience with Agile Development
-* Experience with MySQL, Unix, and Open Source Software
-* Experience with Design Patterns, Object Oriented Programming, and Functional Programming
+* Experience with Linux/shell scripts
+* Experience with mobile web/app automation
 * Experience with Git or other SCM utilities 
+* Experience in managing testing activities for product releases 
+* Experience in developing in-house tools for automating tests or improving productivity
 * Sense of humor
 * Strong interest in journalism, media, or any of the liberal arts
 
 Specific Requirements
 ---------------------
-* Expertise and experience with HTML, CSS, Javascript, and jQuery.
-* Expertise and experience with JavaScript MVC frameworks like Backbone or Angular
-* Expertise and experience with Front end frameworks, Bootstrap and Foundation
-* Expertise and experience with CSS and Javascript Compilers, Coffeescript and Sass
-* Expertise and experience with front end performance profiling and optimization
-* Expertise and experience with responsive design principals, cross-browser compatibility, and progressive enhancement philosophies  
-* Experience or desire to learn server side scripting languages like PHP or Ruby. 
+* Expertise with Webdriver, Java
+* Expertise in cross browser compatibility testing
+* Experience in load/performance testing
+* Experience with testing large scale/distributed systems
+* Experience with creating test plans
+* Understanding of web architecture and knowledge of html/js/css.
+
 
 Location
 --------
